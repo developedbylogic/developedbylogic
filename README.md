@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🧑‍🦱 About Me
 
-I'm a passionate software engineer and tech content creator, dedicated to sharing my knowledge and insights on programming. With a strong background in software development, I strive to provide valuable resources, tutorials, and tips to help fellow developers excel in their craft.
+I'm a passionate Software Engineer and Tech Content Creator, dedicated to sharing my knowledge and insights on Programming. With a strong background in Software Development, I strive to provide valuable resources, tutorials, and tips to help fellow developers excel in their craft.
 
 I also run a YouTube channel where I dive deeper into various programming topics and share practical demonstrations. Through engaging videos, I aim to simplify complex concepts, provide coding tutorials, and offer guidance on best practices.
 
