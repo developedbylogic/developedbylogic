@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-# Welcome to My GitHub Profile!
+### Hi there, I'm Sunday Ochuko and welcome to my Github profile 👋
 
 ## About Me
 
