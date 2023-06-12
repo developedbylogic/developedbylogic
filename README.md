@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Hi there 👋
-### Welcome to my Github profile
+### Welcome to my Github profile!
 
 ### 🧑‍🦱 About Me
 
